@@ -14,7 +14,7 @@ A mobile app built with Flutter to teach Japanese numbers and family member name
 - **Embedded audio files**: Sounds stored inside the project assets.
 
 ## How to Run
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `https://github.com/basmalamohamed2/tuko_app.git`
 2. Navigate to the folder: `cd tuko_app`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
